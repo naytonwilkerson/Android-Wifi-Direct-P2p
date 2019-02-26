@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wifiAndroid</string>
+    <string name="on">On</string>
+    <string name="listoff">ListOff</string>
+    <string name="pesquisa_wifi_direct">PESQUISA WIFI-DIRECT</string>
+    <string name="dispositivos_wifi_direct_abilitados">DISPOSITIVOS WIFI-DIRECT ABILITADOS</string>
+    <string name="list">List</string>
+</resources>
